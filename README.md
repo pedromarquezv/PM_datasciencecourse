@@ -1,5 +1,8 @@
-# PM_datasciencecourse
+# PM_DataScienceCourse
 
-## Editing the file
+## Applied Data Science Capstone Project
 
-Here there is text.
+- Part 1: Data wrangling and preparation
+- Part 2: Exploratory Data Analysis
+- Part 3: Interactive Visual Analytics and Dashboards
+- Part 4: Predictive Analysis (Classification)
